@@ -1,17 +1,18 @@
 CONTROLS: 
-W, A, S, D - бутони за движение
-Е - за отваряне на вратата/ използване на ключа/ взаимодействие със средата.
+W, A, S, D - movement keys
+Е - for interracting
 
 FEATURES:
-1. Над 20 текстури използвани за създаването на средата
-2. Чудовище, което те следва за да те убие
-3. Итерактивен обект, който можеш да вземеш
-4. Заключена врата, която може да се отвори
-5. Условия за победа/загуба
-6. Начален екран, картина както и екран/картина за загуба и победа
-7. Заден фон, който заобикаля играча
-8. Прозрачни текстури, решетки
-9. 2Д спрайт текстури ( Sprite textures/ Sprites )
+1. Over 20 textures used to create the environment
+2. A monster that follows you to kill you
+3. An interactive object that you can pick up
+4. A locked door that can be opened
+5. Win/Loss conditions
+6. Start screen, picture as well as win and loss screen/picture
+7. Background that surrounds the player
+8. Transparent textures, grids
+9. 2D sprite textures
+10. One enemy that chases you
 
-Текстурите са направени с помощта на GIMP във формат PPM и се съдържат във един файл - AllTextures. А информация за това как действа raycasting-a
-съм взел от тука: https://lodev.org/cgtutor/raycasting.html
+The textures were made using GIMP in PPM format and are contained in one file - AllTextures. 
+Source for how raycasting works: https://lodev.org/cgtutor/raycasting.html
